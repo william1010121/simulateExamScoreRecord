@@ -8,6 +8,8 @@
 - `form.gs`
 - `sheet.gs`
 
+---
+
 ## `createForm.gs`
 - 製作`google sheet`
 
@@ -20,6 +22,8 @@
 
 ### `simulateTestBasicInfo()`
 - 這裡應該會有檔案夾的名稱
+
+--- 
 
 ## `form.gs`
 - 清加在`google sheet`裡面的程式碼編輯器
@@ -41,6 +45,7 @@
 ### `onFormSubmit(e)`
 -   在`formSubmit`  的時候更新`sheet`裡面的單元格
 
+---
 
 ## `sheet.gs`
 - 請在`google sheet`裡面的程式碼編輯器
